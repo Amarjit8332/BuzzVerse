@@ -1,0 +1,5 @@
+package com.buzzverse.controller;
+
+public class AuthController {
+
+}

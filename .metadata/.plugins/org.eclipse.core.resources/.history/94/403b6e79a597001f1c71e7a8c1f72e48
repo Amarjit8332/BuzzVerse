@@ -1,0 +1,9 @@
+package com.buzzverse.service;
+
+import com.buzzverse.entity.User;
+
+public interface UserService {
+    User registerUser(User user);
+    String generateAndSaveOtp(String firstName, String phoneNumber);
+    boolean validateOtp(String phoneNumber,String otp);
+}

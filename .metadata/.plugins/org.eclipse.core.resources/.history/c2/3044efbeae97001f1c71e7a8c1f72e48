@@ -1,0 +1,5 @@
+package com.buzzverse.entity;
+
+public class Profile {
+
+}

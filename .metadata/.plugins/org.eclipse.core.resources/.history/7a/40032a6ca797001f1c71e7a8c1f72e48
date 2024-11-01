@@ -1,0 +1,5 @@
+package com.buzzverse.Configuration;
+
+public class SecurityConfig {
+
+}

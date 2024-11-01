@@ -1,0 +1,5 @@
+package com.buzzverse.service;
+
+public class ProfileService {
+
+}
